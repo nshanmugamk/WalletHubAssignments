@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="WalletHub">
+<parameter name="testsiteurl" value="https://wallethub.com" />
+
+	<listeners>
+		<listener class-name="com.assignment.utilities.ExtentListeners" />
+	</listeners>
+
+  <test thread-count="5" name="AddReviewComments">
+    <classes>
+      <class name="com.assignment.two.testcases.TC01_AddReviewComments"/>
+    </classes>
+  </test> <!-- AddReviewComments -->
+</suite> <!-- WalletHub -->

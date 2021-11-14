@@ -1,0 +1,18 @@
+15/11/2021 01:43:03 devpinoyLogger launching chrome driver
+15/11/2021 01:43:12 devpinoyLogger Clicking on : Login icon on top left
+15/11/2021 01:43:12 devpinoyLogger Typing in: Username text feild Entered the value as testaccount1
+15/11/2021 01:43:12 devpinoyLogger Typing in: Password text feild Entered the value as testpassword
+15/11/2021 01:43:12 devpinoyLogger Clicking on : LoginButton
+15/11/2021 01:43:16 devpinoyLogger Mouse Move over an element : second star
+15/11/2021 01:43:16 devpinoyLogger Get text of an element : color changed first star and the attribute is fill
+15/11/2021 01:43:16 devpinoyLogger Mouse Move over an element : third star
+15/11/2021 01:43:16 devpinoyLogger Get text of an element : color changed second star and the attribute is fill
+15/11/2021 01:43:17 devpinoyLogger Mouse Move over an element : fourth star
+15/11/2021 01:43:17 devpinoyLogger Get text of an element : color changed third star and the attribute is fill
+15/11/2021 01:43:17 devpinoyLogger Mouse Move over an element : fifth star
+15/11/2021 01:43:17 devpinoyLogger Get text of an element : color changed fourth star and the attribute is fill
+15/11/2021 01:43:17 devpinoyLogger Clicking on : fourth star
+15/11/2021 01:43:17 devpinoyLogger Clicking on : select dropdown
+15/11/2021 01:43:17 devpinoyLogger Clicking on : HealthInsurance option
+15/11/2021 01:43:20 devpinoyLogger Typing in: review text area Entered the value as akacxrkjffzelhkezufbgdciwtbxdkgrlhmtulwgvqbgkjlcmeongcxvuxbcoeimdcrbwjjmildyztanskrifxbvikpackvjrdgrhehkrkjeusuljmydcdbuvlciyhxoyajjialapwjnqpmbcvbdukpovofwmcqdngernibllraqjlqicdxzxdxnvjictdeeblmwtpdawjjkvrjpjscdomiyveffntcffpmqmvtdfqqfypqhquqyvfjbxntfcphotsgdfxjhpatcemjwlrexwizwcllwgucpygqjnnblagoq
+15/11/2021 01:43:20 devpinoyLogger Clicking on : Submit button

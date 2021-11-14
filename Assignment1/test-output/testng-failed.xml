@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [WalletHub]" guice-stage="DEVELOPMENT">
+  <parameter name="testsiteurl" value="https://wallethub.com"/>
+  <listeners>
+    <listener class-name="com.assignment.utilities.ExtentListeners"/>
+  </listeners>
+  <test thread-count="5" name="AddReviewComments(failed)">
+    <classes>
+      <class name="com.assignment.two.testcases.TC01_AddReviewComments">
+        <methods>
+          <include name="startup"/>
+          <include name="tearDown"/>
+          <include name="tc01_AddReviewComments"/>
+        </methods>
+      </class> <!-- com.assignment.two.testcases.TC01_AddReviewComments -->
+    </classes>
+  </test> <!-- AddReviewComments(failed) -->
+</suite> <!-- Failed suite [WalletHub] -->

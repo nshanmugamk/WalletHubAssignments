@@ -1,0 +1,18 @@
+01:43:03,957 DEBUG devpinoyLogger:65 - launching chrome driver
+01:43:12,183 DEBUG devpinoyLogger:108 - Clicking on : Login icon on top left
+01:43:12,461 DEBUG devpinoyLogger:120 - Typing in: Username text feild Entered the value as testaccount1
+01:43:12,621 DEBUG devpinoyLogger:120 - Typing in: Password text feild Entered the value as testpassword
+01:43:12,762 DEBUG devpinoyLogger:108 - Clicking on : LoginButton
+01:43:16,793 DEBUG devpinoyLogger:157 - Mouse Move over an element : second star
+01:43:16,793 DEBUG devpinoyLogger:194 - Get text of an element : color changed first star and the attribute is fill
+01:43:16,969 DEBUG devpinoyLogger:157 - Mouse Move over an element : third star
+01:43:16,969 DEBUG devpinoyLogger:194 - Get text of an element : color changed second star and the attribute is fill
+01:43:17,140 DEBUG devpinoyLogger:157 - Mouse Move over an element : fourth star
+01:43:17,141 DEBUG devpinoyLogger:194 - Get text of an element : color changed third star and the attribute is fill
+01:43:17,314 DEBUG devpinoyLogger:157 - Mouse Move over an element : fifth star
+01:43:17,315 DEBUG devpinoyLogger:194 - Get text of an element : color changed fourth star and the attribute is fill
+01:43:17,550 DEBUG devpinoyLogger:108 - Clicking on : fourth star
+01:43:17,802 DEBUG devpinoyLogger:108 - Clicking on : select dropdown
+01:43:17,957 DEBUG devpinoyLogger:108 - Clicking on : HealthInsurance option
+01:43:20,064 DEBUG devpinoyLogger:120 - Typing in: review text area Entered the value as akacxrkjffzelhkezufbgdciwtbxdkgrlhmtulwgvqbgkjlcmeongcxvuxbcoeimdcrbwjjmildyztanskrifxbvikpackvjrdgrhehkrkjeusuljmydcdbuvlciyhxoyajjialapwjnqpmbcvbdukpovofwmcqdngernibllraqjlqicdxzxdxnvjictdeeblmwtpdawjjkvrjpjscdomiyveffntcffpmqmvtdfqqfypqhquqyvfjbxntfcphotsgdfxjhpatcemjwlrexwizwcllwgucpygqjnnblagoq
+01:43:20,182 DEBUG devpinoyLogger:108 - Clicking on : Submit button

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Facebook test automation test suite]" guice-stage="DEVELOPMENT">
+  <parameter name="testsiteurl" value="https://facebook.com"/>
+  <listeners>
+    <listener class-name="com.assignment.utilities.ExtentListeners"/>
+  </listeners>
+  <test thread-count="5" name="Facebook Testcases(failed)">
+    <parameter name="password" value="test@123"/>
+    <parameter name="username" value="navilena.property@gmail.com"/>
+    <classes>
+      <class name="com.assignment.one.testcases.TC01_postStatus">
+        <methods>
+          <include name="startup"/>
+          <include name="tearDown"/>
+          <include name="tco1_postStatus" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.assignment.one.testcases.TC01_postStatus -->
+    </classes>
+  </test> <!-- Facebook Testcases(failed) -->
+</suite> <!-- Failed suite [Facebook test automation test suite] -->
